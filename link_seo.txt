@@ -1,6 +1,6 @@
 1. https://trituenhantao.info/giao-trinh-tri-tue-nhan-tao-ai/
 2. https://trituenhantao.info/cai-dat-va-su-dung-machine-learning-voi-anaconda-python-tren-window/
-3.
+3. https://trituenhantao.info/tao-chatbot-ai-bang-python-voi-aiml/
 4.
 5.
 6.
